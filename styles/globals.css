@@ -48,23 +48,23 @@ body {
 }
 .circle {
   display: inline-block;
-  width: 20px; /* Adjust the width and height as needed */
+  width: 20px; 
   height: 20px;
   border-radius: 50%;
   background-color: rgb(175, 169, 169);
   text-align: center;
-  line-height: 20px; /* Should be the same as the height for vertical centering */
-  color: white; /* Text color inside the circle */
+  line-height: 20px; 
+  color: white;
 }
 .circle {
   display: inline-block;
-  width: 20px; /* Adjust the width and height as needed */
+  width: 20px; 
   height: 20px;
   border-radius: 50%;
   background-color: rgb(175, 169, 169);
   text-align: center;
-  line-height: 20px; /* Should be the same as the height for vertical centering */
-  color: white; /* Text color inside the circle */
+  line-height: 20px; 
+  color: white;
 }
 
 
